@@ -1,0 +1,7 @@
+{
+  "name": "what-to-do",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
